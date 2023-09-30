@@ -1,0 +1,26 @@
+h1 {
+    font-family: AppleGothic, sans-serif;
+    font-weight: 1500;
+    text-align: center;
+    background-color: palevioletred;
+}
+
+h2 {
+    font-family: "New Peninim MT", sans-serif;
+    font-size: 23px;
+}
+
+li, p {
+    font-size: 20px;
+}
+
+li {
+    font-family: Georgia, sans-serif;
+    font-weight: initial;
+    background-color: lightblue;
+}
+
+p {
+    font-weight: lighter;
+    font-family: "Fira Code", "DejaVu Sans", sans-serif;
+}
