@@ -17,10 +17,29 @@ li, p {
 li {
     font-family: Georgia, sans-serif;
     font-weight: initial;
-    background-color: lightblue;
 }
 
 p {
     font-weight: lighter;
     font-family: "Fira Code", "DejaVu Sans", sans-serif;
+}
+
+.recipe-button {
+    display: inline-block;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    padding: 10px;
+    margin: 0 20px;
+    background-color: palevioletred;
+}
+
+.main-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.recipe-container {
+    text-align: center;
+    margin: 0 auto;
 }
