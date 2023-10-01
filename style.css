@@ -24,7 +24,7 @@ p {
     font-family: "Fira Code", "DejaVu Sans", sans-serif;
 }
 
-.recipe-button {
+.recipe-container li {
     display: inline-block;
     text-align: center;
     height: 30px;
@@ -32,6 +32,11 @@ p {
     padding: 10px;
     margin: 0 20px;
     background-color: palevioletred;
+}
+
+.recipe-container a {
+    color: black;
+    text-decoration-line: initial;
 }
 
 .main-image {
